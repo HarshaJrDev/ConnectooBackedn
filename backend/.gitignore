@@ -1,0 +1,15 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore build output
+/dist
+/build
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore specific file
+app/(tabs)/_profile.tsx
